@@ -1,0 +1,17 @@
+C:\Users\Shijo\Desktop\GssLearning\LinqExamples\bin\Debug\net6.0\LinqExamples.exe
+C:\Users\Shijo\Desktop\GssLearning\LinqExamples\bin\Debug\net6.0\LinqExamples.deps.json
+C:\Users\Shijo\Desktop\GssLearning\LinqExamples\bin\Debug\net6.0\LinqExamples.runtimeconfig.json
+C:\Users\Shijo\Desktop\GssLearning\LinqExamples\bin\Debug\net6.0\LinqExamples.dll
+C:\Users\Shijo\Desktop\GssLearning\LinqExamples\bin\Debug\net6.0\ref\LinqExamples.dll
+C:\Users\Shijo\Desktop\GssLearning\LinqExamples\bin\Debug\net6.0\LinqExamples.pdb
+C:\Users\Shijo\Desktop\GssLearning\LinqExamples\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Shijo\Desktop\GssLearning\LinqExamples\obj\Debug\net6.0\LinqExamples.csproj.AssemblyReference.cache
+C:\Users\Shijo\Desktop\GssLearning\LinqExamples\obj\Debug\net6.0\LinqExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shijo\Desktop\GssLearning\LinqExamples\obj\Debug\net6.0\LinqExamples.AssemblyInfoInputs.cache
+C:\Users\Shijo\Desktop\GssLearning\LinqExamples\obj\Debug\net6.0\LinqExamples.AssemblyInfo.cs
+C:\Users\Shijo\Desktop\GssLearning\LinqExamples\obj\Debug\net6.0\LinqExamples.csproj.CoreCompileInputs.cache
+C:\Users\Shijo\Desktop\GssLearning\LinqExamples\obj\Debug\net6.0\LinqExamples.csproj.CopyComplete
+C:\Users\Shijo\Desktop\GssLearning\LinqExamples\obj\Debug\net6.0\LinqExamples.dll
+C:\Users\Shijo\Desktop\GssLearning\LinqExamples\obj\Debug\net6.0\ref\LinqExamples.dll
+C:\Users\Shijo\Desktop\GssLearning\LinqExamples\obj\Debug\net6.0\LinqExamples.pdb
+C:\Users\Shijo\Desktop\GssLearning\LinqExamples\obj\Debug\net6.0\LinqExamples.genruntimeconfig.cache
