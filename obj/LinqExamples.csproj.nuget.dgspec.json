@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shijo\\Desktop\\GssLearning\\LinqExamples\\LinqExamples.csproj": {}
+    "C:\\Users\\Shijo\\Desktop\\GssLearning\\LinqExamples\\LinqExamples\\LinqExamples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shijo\\Desktop\\GssLearning\\LinqExamples\\LinqExamples.csproj": {
+    "C:\\Users\\Shijo\\Desktop\\GssLearning\\LinqExamples\\LinqExamples\\LinqExamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shijo\\Desktop\\GssLearning\\LinqExamples\\LinqExamples.csproj",
+        "projectUniqueName": "C:\\Users\\Shijo\\Desktop\\GssLearning\\LinqExamples\\LinqExamples\\LinqExamples.csproj",
         "projectName": "LinqExamples",
-        "projectPath": "C:\\Users\\Shijo\\Desktop\\GssLearning\\LinqExamples\\LinqExamples.csproj",
+        "projectPath": "C:\\Users\\Shijo\\Desktop\\GssLearning\\LinqExamples\\LinqExamples\\LinqExamples.csproj",
         "packagesPath": "C:\\Users\\Shijo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shijo\\Desktop\\GssLearning\\LinqExamples\\obj\\",
+        "outputPath": "C:\\Users\\Shijo\\Desktop\\GssLearning\\LinqExamples\\LinqExamples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Shijo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Shijo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -37,9 +35,13 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
@@ -60,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
